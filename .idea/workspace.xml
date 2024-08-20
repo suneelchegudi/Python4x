@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a17115b-af3f-433f-b212-e8d8eb4edb8d" name="Changes" comment="Lab on 17th of August">
-      <change afterPath="$PROJECT_DIR$/src/20082024/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/20082024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/20082024/Task07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/20082024/Task08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/20082024/Task09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/002_ListandSets.py" afterDir="false" />
+    <list default="true" id="9a17115b-af3f-433f-b212-e8d8eb4edb8d" name="Changes" comment="Lab on 20th of August">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/13082024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/13082024/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personal/Lab_XOR.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personal/Lab_XOR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20082024/Task08.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/20082024/Task08.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723907296863</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab on 20th of August">
+      <option name="closed" value="true" />
+      <created>1724175723923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724175723923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +142,7 @@
     <MESSAGE value="Commit 10th of August" />
     <MESSAGE value="Lab on 13th of August" />
     <MESSAGE value="Lab on 17th of August" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab on 17th of August" />
+    <MESSAGE value="Lab on 20th of August" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab on 20th of August" />
   </component>
 </project>
