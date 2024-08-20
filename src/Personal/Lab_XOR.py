@@ -8,3 +8,7 @@ print(a>b)
 print(x>y)
 result = (a>b) and (x>y)
 print(result)
+
+name = 'Lizz'
+print(name.upper())
+print(name[0:2])
