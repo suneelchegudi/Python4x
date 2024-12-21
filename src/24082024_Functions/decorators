@@ -1,0 +1,14 @@
+def my_decorator(func)
+    def function1:
+        print("Start")
+        func()
+        print("End")
+    deft function2:
+        print("Function2 start")
+        func()
+        print("Function2 Ending")
+
+def call_myfunc:
+    print("Here you go ")
+
+call_myfunc()
