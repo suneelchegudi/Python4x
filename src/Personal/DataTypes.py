@@ -8,3 +8,7 @@ for i in range(1,11):
 name = "Suneel"
 print(name.isupper())
 print(name.upper())
+print(3.152093457234597*(float(input("Enter the radius\n"))**2))
+
+browser_name=input("Enter brower name").lower()
+print(browser_name)

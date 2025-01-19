@@ -5,69 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a17115b-af3f-433f-b212-e8d8eb4edb8d" name="Changes" comment="Lab on 20th of August">
-      <change afterPath="$PROJECT_DIR$/Working_Files/01#Pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Working_Files/File#2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Working_Files/File#3_WriteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Working_Files/Files#1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Working_Files/Practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Working_Files/Requests_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Working_Files/Requests_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Working_Files/importos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/Exception_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/OpenExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/Try_Except_Else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/dictionary_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/exception_sqrt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/function_collection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10082024/lists_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/Custom_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/Exception01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/Exception02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/Exception03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/FileReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/Fileio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/MainMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/file02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/fileio01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/suneel/file01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/suneel/readycsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/suneel/readycsv_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/suneel/suneel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/suneel/testdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10092024/suneel/writefile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/13082024/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/13082024/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/13082024/numpy_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Task#009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Task#010_Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/Function_Arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/Functions03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/Functions_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/Loops_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/Loops_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/Loops_Enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/Operators_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/While_Loop_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/decorators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24082024_Functions/functions01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mathfunctions/NumberFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/BankAccount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/Bank_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/Class01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/ConClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/DataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/RegEx_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/RegEx_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/RegEx_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personal/myclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10082024/Functions#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10082024/Lists#01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10082024/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10082024/function#1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10082024/sets#01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/ConstructorClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Lab#001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Lab#002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Lab#002_Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Mangling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/MethodOverriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/OverLoading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Overloading#1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/PrivateIdentifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/ProtectedIdentifiers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/13082024/While.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/13082024/While.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personal/002_ListandSets.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personal/002_ListandSets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10082024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/10082024/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personal/Class01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personal/Class01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personal/DataTypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personal/DataTypes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +71,10 @@
     "Python.Bank_Class.executor": "Run",
     "Python.Class01.executor": "Run",
     "Python.ConClass.executor": "Run",
+    "Python.ConstructorClass.executor": "Run",
     "Python.Custom_Exception.executor": "Run",
     "Python.DataTypes.executor": "Run",
+    "Python.Encapsulation.executor": "Run",
     "Python.Exception01.executor": "Run",
     "Python.Exception02.executor": "Run",
     "Python.Exception03.executor": "Run",
@@ -126,8 +86,12 @@
     "Python.Fileio.executor": "Run",
     "Python.Files#1.executor": "Run",
     "Python.Function_Arguments.executor": "Run",
+    "Python.Functions#2.executor": "Run",
     "Python.Functions03.executor": "Run",
     "Python.Functions_03.executor": "Run",
+    "Python.Lab#001.executor": "Run",
+    "Python.Lab#002.executor": "Run",
+    "Python.Lab#002_Constructor.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
@@ -140,16 +104,23 @@
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
     "Python.Lab_XOR.executor": "Run",
+    "Python.Lists#01.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Loops_01.executor": "Run",
     "Python.Loops_02.executor": "Run",
     "Python.Loops_Enumerate.executor": "Run",
     "Python.MainMethod.executor": "Run",
+    "Python.Mangling.executor": "Run",
+    "Python.MethodOverriding.executor": "Run",
     "Python.NumberFunctions.executor": "Run",
     "Python.OS.executor": "Run",
     "Python.OpenExcel.executor": "Run",
     "Python.Operators_Test.executor": "Run",
+    "Python.OverLoading.executor": "Run",
+    "Python.Overloading#1.executor": "Run",
     "Python.Practice.executor": "Run",
+    "Python.PrivateIdentifiers.executor": "Run",
+    "Python.ProtectedIdentifiers.executor": "Run",
     "Python.RegEx_01.executor": "Run",
     "Python.RegEx_02.executor": "Run",
     "Python.RegEx_03.executor": "Run",
@@ -175,6 +146,7 @@
     "Python.file02.executor": "Run",
     "Python.fileio01.executor": "Run",
     "Python.for.executor": "Run",
+    "Python.function#1.executor": "Run",
     "Python.function_collection.executor": "Run",
     "Python.functions01.executor": "Run",
     "Python.importos.executor": "Run",
@@ -184,6 +156,7 @@
     "Python.readycsv.executor": "Run",
     "Python.readycsv_pandas.executor": "Run",
     "Python.requests.executor": "Run",
+    "Python.sets#01.executor": "Run",
     "Python.writefile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -199,8 +172,8 @@
       <recent name="D:\Python4x\src\10092024\suneel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DataTypes">
-    <configuration name="DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.AbstractMethod">
+    <configuration name="AbstractMethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Personal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Personal/DataTypes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/OOPS/AbstractMethod.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NumberFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Mathfunctions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Mathfunctions/NumberFunctions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/OOPS/Encapsulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Requests_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mangling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Working_Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Working_Files/Requests_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/OOPS/Mangling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="importos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PrivateIdentifiers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Working_Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Working_Files/importos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/OOPS/PrivateIdentifiers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="requests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ProtectedIdentifiers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Working_Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Working_Files/requests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/OOPS/ProtectedIdentifiers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DataTypes" />
-        <item itemvalue="Python.NumberFunctions" />
-        <item itemvalue="Python.importos" />
-        <item itemvalue="Python.Requests_02" />
-        <item itemvalue="Python.requests" />
+        <item itemvalue="Python.AbstractMethod" />
+        <item itemvalue="Python.Mangling" />
+        <item itemvalue="Python.PrivateIdentifiers" />
+        <item itemvalue="Python.ProtectedIdentifiers" />
+        <item itemvalue="Python.Encapsulation" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724175723923</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab on 20th of August">
+      <option name="closed" value="true" />
+      <created>1734762283987</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734762283987</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
